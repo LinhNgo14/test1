@@ -1,0 +1,5 @@
+-- tab utd, truyền sai dữ liệu tar về khi put --> lỗi save
+-- tab utc thì khi truyền dl vào thì hiển thị sai file tree, duliacte ở preview
+-- cho kích thước tên fileở sidebar nhỏ xuống
+-- thiếu showLoading khi chuyển giữa tab 1 ,2,3
+-- tab 3 tab git chưa hiển thị dữ liệu về branch , thời gian, file
